@@ -1,2 +1,2 @@
 # Python-Calculator
-A Calculator developed in Python
+A Calculator and a 'Forca' game developed in Python
